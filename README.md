@@ -32,7 +32,7 @@ This repository predicts stock prices using **LSTM (Long Short-Term Memory)** ne
 ## 📚 Requirements
 
 ```bash
-pip install torch pandas numpy matplotlib scikit-learn
+pip install torch pandas yfinance numpy matplotlib scikit-learn
 ```
 
 ---
@@ -50,10 +50,7 @@ pip install torch pandas numpy matplotlib scikit-learn
 ```
 📦 stock_price_prediction
  ┣ 📜 README.md
- ┣ 📜 model.py
- ┣ 📜 train.py
- ┣ 📜 predict.py
- ┗ 📜 requirements.txt
+ ┣ 📜 stockprice.ipynb
 ```
 
 > **Note:** The project may grow with more models like GRU, Transformer, or hybrid models.
