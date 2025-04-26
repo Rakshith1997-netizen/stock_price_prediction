@@ -39,9 +39,9 @@ pip install torch pandas numpy matplotlib scikit-learn
 
 ## 📊 Example Outputs
 
-- Actual vs Predicted Price Plot
-- Prediction Error Plot
-- RMSE Score on Test Set
+- 📈 Actual vs Predicted Price Plot
+- 📉 Prediction Error Plot
+- 📋 RMSE Score on Test Set
 
 ---
 
@@ -76,6 +76,12 @@ If you like the project or have suggestions, feel free to connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rakshith-j-r-98a41368/)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle)](https://www.kaggle.com/saitama97)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/saitama_97/)
+
+---
+
+## 📜 Credits
+
+- Special thanks to [NeuralNine](https://www.youtube.com/c/NeuralNine) for amazing tutorials and inspiration! 🙏
 
 ---
 
